@@ -28,8 +28,6 @@ Place all written answers from `recitation-05.md` here for easier grading.
 | 100000 |             165.824 |              177.043 |    15.518 |          |
 
 
-- **1c.**
-
 
 
 
